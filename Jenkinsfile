@@ -13,4 +13,4 @@ post {
          unstable {
              echo 'This will run only if the run was marked as unstable'
          }
-     }
+    }
